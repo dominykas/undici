@@ -100,7 +100,7 @@
     "@types/node": "^18.0.3",
     "abort-controller": "^3.0.0",
     "atomic-sleep": "^1.0.0",
-    "chai": "^4.3.4",
+    "chai": "^5.0.0",
     "chai-as-promised": "^7.1.1",
     "chai-iterator": "^3.0.2",
     "chai-string": "^1.5.0",
